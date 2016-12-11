@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ page.description }}">
+    <link rel="stylesheet" href="/css/all.min.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&subset=latin,cyrillic,latin-ext,cyrillic-ext">
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <div class="brand">
+          <a href="/">Denis Lysenko</a>
+        </div>
+        <nav class="navbar">
+          <ul>
+            <li><a href="/about">Обо мне</a></li>
+            <li><a href="/">Блог</a></li>
+            <li><a href="/cv">Резюме</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <section class="content">
+        {{ content }}
+      </section>
+
+      <footer class="copyright">
+        © 2012 - 2016 Denis Lysenko
+      </footer>
+    </div>
+
+    <script src="/js/lazyload.js"></script>
+    {% include ga.html %}
+    {% include metrika.html %}
+  </body>
+</html>

@@ -1,0 +1,3 @@
+User-agent: *
+Host: {{ site.url }}
+Sitemap: {{ site.url }}/sitemap.xml

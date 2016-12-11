@@ -1,2 +1,6 @@
-# lysenkooo.github.io
-My personal site
+# Blog Sources
+
+```sh
+$ bundle
+$ bundle exec jekyll serve
+```

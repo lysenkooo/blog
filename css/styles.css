@@ -1,0 +1,109 @@
+body {
+    color: #444;
+    font-family: 'Open Sans', Helvetica;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #181818;
+}
+
+a, a:hover {
+    color: #333;
+}
+
+p, ul, ol {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    list-style: disc inside;
+}
+
+pre, code {
+    font-family: Menlo, 'Bitstream Vera Sans Mono', 'DejaVu Sans Mono', Monaco, Consolas, monospace;
+    background-color: #fbfaf9;
+    -webkit-font-smoothing: antialiased;
+}
+
+pre {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+code {
+    white-space: nowrap;
+}
+
+.brand {
+    margin: 10px 0;
+    text-align: center;
+}
+
+.brand a {
+    text-decoration: none;
+    font-size: 48px;
+}
+
+.navbar ul {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.navbar li {
+    border-top: 1px solid #eee;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 33.33%;
+}
+
+.navbar a {
+    color: #666;
+    display: block;
+    height: 100%;
+    letter-spacing: 1px;
+    padding: .5em 0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.navbar li:hover,
+.navbar li.active {
+    border-top: 1px solid #c02702;
+}
+
+.navbar li:hover a,
+.navbar li.active a {
+    color: #c02702;
+}
+
+.navbar li,
+.navbar a {
+    transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -o-transition: all 0.25s ease-in-out;
+    -webkit-transition: all 0.25s ease-in-out;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+.copyright {
+    border-top: 1px solid #eee;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
