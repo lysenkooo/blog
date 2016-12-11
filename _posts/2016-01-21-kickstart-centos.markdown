@@ -3,7 +3,7 @@ layout: post
 title: "How to automate CentOS installation with kickstart file"
 date: 2016-01-21 00:00:00 +0300
 intro: "Hey! Today I want to tell about automation of CentOS installation process. In previous articles I’ve described some automation tools, first of all, that is Ansible. Really, I use that tool almost every day, because there are many tasks with linux administration at my work, however I work on web developer position. But I want to automate everything, because these things take much time constantly and not allow to concentrace on process of software development. Fortunatelly, I like tasks from DevOps world and today I’ve resolved one more problem."
-categories: devops
+categories: en
 tags: linux centos
 ---
 

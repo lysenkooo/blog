@@ -8,7 +8,7 @@ intro: >
     у меня вылезает куча эксепшенов с сообщением "invalid byte sequence in
     UTF-8". В буржунете много решений проблемы, которые обычно сводятся к
     использованию стороннего гема и фильтрации ввода через middleware.
-categories: backend
+categories: ru
 tags: ruby
 ---
 

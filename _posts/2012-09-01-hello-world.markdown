@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hello world"
-date: 2012-09-01 00:00:00 +0400
+date: 2012-09-01 00:00:00 +0300
 intro: "Привет! Наконец-то я созрел для того, чтобы написать первый пост в свой блог. И этому есть свои причины."
-categories: thinking
+categories: ru
 tags: blog
 ---
 
