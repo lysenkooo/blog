@@ -1,6 +1,8 @@
 ---
-layout: default
-title: CV
+layout: page
+title: My CV
 ---
 
-CV
+<p>
+  This section under construction right now. I'm sorry.
+</p>

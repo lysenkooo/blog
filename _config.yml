@@ -1,5 +1,5 @@
 title: "Denis Lysenko"
-description: "Personal blog with interesting IT and life stories."
+description: "Personal blog about IT"
 url: "http://lysenkooo.ru"
 paginate: 10
 markdown: kramdown
@@ -10,3 +10,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - README.md
