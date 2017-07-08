@@ -13,13 +13,13 @@ intro: >
 
 ### Программирование
 
-* [Много тонкостей языка Ruby](https://6ftdan.com/allyourdev/2016/01/13/101-ruby-code-factoids) можно почерпнуть из статьи годоваой давности.
+* [Много тонкостей языка Ruby](https://6ftdan.com/allyourdev/2016/01/13/101-ruby-code-factoids) можно почерпнуть из статьи годовалой давности.
 * [Статья на ту же тему](http://www.blackbytes.info/2016/01/ruby-tricks), но с меньшим количеством букв.
 * [Руководство по рефакторингу](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/) ваших моделей ActiveRecord.
 * Когда у вас уже рефакторинг головного мозга и хочется внедрить еще крутых практик, можно попробовать [использовать Presenters](http://nithinbekal.com/posts/rails-presenters/) в вашем рельсовом приложении.
 * Если мысль о том, как правильно отцентрировать набор из div у вас вызывает боль, вас нужно срочно прочитать [введение в Flexbox](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35).
-* Хоть я и не люблю верстку, была занимательно прочитать о [полезных хаках в CSS](http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips).
-* Писать на JavaScript для меня боль. Особенно если это ES5. Но такая штука как lodash сильно упрощает жизнь. Правда чтобы этот инструмент использовать продуктивно, нужно сначала [ознакомиться с его возможностями](https://habrahabr.ru/post/217515/).
+* Хоть я и не люблю верстку, было занимательно прочитать о [полезных хаках в CSS](http://webdesignerwall.com/tutorials/level-css-skills-20-pro-css-tips).
+* Писать на JavaScript для меня боль. Особенно если это ES5. Но такая штука как lodash сильно упрощает жизнь. Правда, чтобы этот инструмент использовать продуктивно, нужно сначала [ознакомиться с его возможностями](https://habrahabr.ru/post/217515/).
 * [Хорошая статья про построение изоморфного приложения на реакте](https://habrahabr.ru/post/309958/) в [двух частях](https://habrahabr.ru/post/310284/). Изоморфное, это когда у вас один код для бекенда и фронтенда. То есть при загрузке страницы у вас код рендерится на сервере, а после того как она загрузилась, все уже происходит на клиенте. Круто же!
 * Принципы SOLID порой сложно понять без примеров. Если у вас присутствую проблемы с их пониманием, рекомендую [эту статью](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/).
 
@@ -36,7 +36,7 @@ intro: >
 
 * [Отличная подборка тараканов](http://lpgenerator.ru/blog/2015/12/26/18-kognitivnyh-iskazhenij-o-kotoryh-stoit-znat-kazhdomu-marketologu), знание которых может сильно повысить эффективность вашего сайта или бизнеса в целом.
 * [Продолжение темы](http://lpgenerator.ru/blog/2017/01/04/12-psihologicheskih-predubezhdenij-sposobnyh-zastavit-skazat-da/) в виде практических советов от того же источника.
-* [Статья из той же серии про манипулиции сознанием](http://www.iidf.ru/media/articles/lifehacks/kak-tekhnologii-manipuliruyut-nashim-razumom-populyarnye-tryuki-priyemy-i-fokusy/).
+* [Статья из той же серии про манипуляции сознанием](http://www.iidf.ru/media/articles/lifehacks/kak-tekhnologii-manipuliruyut-nashim-razumom-populyarnye-tryuki-priyemy-i-fokusy/).
 * [Подборка ценных эксперииментов в SEO](https://www.searchengines.ru/eight-seo-exp.html) чтобы не наступать на те же грабли. Умные учатся на чужом опыте, дураки на своем.
 
 ### Чтиво
