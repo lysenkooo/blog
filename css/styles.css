@@ -100,3 +100,7 @@ code {
     padding-top: 10px;
     text-align: center;
 }
+
+img {
+  max-width: 100%;
+}
